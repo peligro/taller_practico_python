@@ -1,0 +1,1 @@
+raise ZeroDivisionError("hola mi mamá me los compró")
